@@ -1,2 +1,2 @@
 # insectKey
-Projeto de desenvolvimento do aplicativo Insect Key
+Desenvolvimento do aplicativo Insect Key
